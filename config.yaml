@@ -4,13 +4,15 @@ source_directories:
 
 
 repositories:
-    - path: ssh://borgwarehouse@100.94.179.34:2222/./01073503
+    - path: ssh://borgwarehouse@manuelselch.de:2222/./01073503
       label: backupserver
 
 one_file_system: true
 
 compression: lz4
 archive_name_format: 'backup-{now}'
+
+relocated_repo_access_is_ok: true
 
 keep_daily: 7
 keep_monthly: 4
