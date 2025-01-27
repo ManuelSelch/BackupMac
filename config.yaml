@@ -2,20 +2,20 @@ source_directories:
     - /Users/manuelselch/Documents
     - /Users/manuelselch/Library/Preferences/Nextcloud/nextcloud.cfg
 
-
 repositories:
     - path: ssh://borgwarehouse@manuelselch.de:2222/./01073503
       label: backupserver
 
-one_file_system: true
-
-compression: lz4
-archive_name_format: 'backup-{now}'
-
-relocated_repo_access_is_ok: true
+before_backup: []
+after_backup: []
 
 keep_daily: 7
 keep_monthly: 4
 keep_yearly: 1
 
+archive_name_format: 'backup-{now}'
+relocated_repo_access_is_ok: true
+files_cache: ctime,size
 read_special: true
+one_file_system: true
+compression: lz4
