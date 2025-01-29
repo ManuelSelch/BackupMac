@@ -1,3 +1,5 @@
+alias uni="cd /Users/manuelselch/Documents/U\ Uni/U01\ Semester\ I"
+
 # setup nvm and npm
 # export NVM_DIR="$HOME/.nvm"
 # [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
