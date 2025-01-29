@@ -1,4 +1,5 @@
 alias uni="cd /Users/manuelselch/Documents/U\ Uni/U01\ Semester\ I"
+alias backup="source /Users/manuelselch/backup/.venv/bin/activate && python3 /Users/manuelselch/backup/borgmatic/wizard.py"
 
 # setup nvm and npm
 # export NVM_DIR="$HOME/.nvm"
