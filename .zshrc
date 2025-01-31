@@ -1,6 +1,6 @@
 alias uni="cd /Users/manuelselch/Documents/U\ Uni/U01\ Semester\ I"
 alias wizard="source /Users/manuelselch/backup/.venv/bin/activate && python3 /Users/manuelselch/backup/borgmatic/wizard.py"
-alias backup="bash /Users/manuelselch/backup/mac/backup.sh && /Users/manuelselch/borgmatic/backup.sh"
+alias backup="bash /Users/manuelselch/backup/mac/backup.sh && /Users/manuelselch/backup/borgmatic/backup.sh"
 alias update="bash /Users/manuelselch/backup/mac/update.sh"
 
 # setup nvm and npm
