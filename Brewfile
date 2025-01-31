@@ -20,8 +20,10 @@ cask "nextcloud"
 cask "obsidian"
 cask "rectangle"
 cask "visual-studio-code"
+cask "zoom"
 cask "zulip"
 mas "Battery Monitor", id: 836505650
+mas "Bitwarden", id: 1352778147
 mas "CHM Reader - Enjoy", id: 1661528239
 mas "HEIC Converter", id: 1294126402
 mas "HP Smart", id: 1474276998
