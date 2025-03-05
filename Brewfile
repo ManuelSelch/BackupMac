@@ -10,6 +10,7 @@ brew "neovim"
 brew "nethack"
 brew "openjdk@17"
 brew "pacvim"
+brew "php", restart_service: :changed
 brew "picocom"
 brew "pipx"
 brew "starship"
