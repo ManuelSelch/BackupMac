@@ -41,6 +41,7 @@ mas "InjectionIII", id: 1380446739
 mas "Microsoft Word", id: 462054704
 mas "PL2303Serial", id: 1624835354
 mas "SPIKE", id: 6443545905
+mas "Strongbox", id: 897283731
 mas "Symbols", id: 1612933742
 mas "Tailscale", id: 1475387142
 mas "TestFlight", id: 899247664
