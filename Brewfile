@@ -4,6 +4,7 @@ tap "ryu0118/dgraph"
 brew "borgbackup"
 brew "borgmatic"
 brew "gradle"
+brew "libftdi"
 brew "mas"
 brew "minicom"
 brew "neovim"
@@ -14,6 +15,7 @@ brew "php", restart_service: :changed
 brew "picocom"
 brew "pipx"
 brew "starship"
+brew "strongswan"
 brew "tmux"
 brew "wimlib"
 cask "arc"
@@ -38,6 +40,7 @@ mas "HEIC Converter", id: 1294126402
 mas "HP Smart", id: 1474276998
 mas "HTTPBot", id: 1232603544
 mas "InjectionIII", id: 1380446739
+mas "Microsoft Excel", id: 462058435
 mas "Microsoft Word", id: 462054704
 mas "PL2303Serial", id: 1624835354
 mas "SPIKE", id: 6443545905
@@ -51,6 +54,7 @@ mas "Windows App", id: 1295203466
 mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
 vscode "asvetliakov.vscode-neovim"
+vscode "bierner.markdown-mermaid"
 vscode "hansampfaall.dimacs"
 vscode "janisdd.vscode-edit-csv"
 vscode "mechatroner.rainbow-csv"
