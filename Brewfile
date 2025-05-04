@@ -20,6 +20,7 @@ brew "tmux"
 brew "wimlib"
 cask "arc"
 cask "arduino-ide"
+cask "forklift"
 cask "google-drive"
 cask "intellij-idea-ce"
 cask "knockknock"
@@ -33,6 +34,7 @@ cask "ultimaker-cura"
 cask "visual-studio-code"
 cask "zoom"
 cask "zulip"
+mas "AusweisApp", id: 948660805
 mas "Battery Monitor", id: 836505650
 mas "Bitwarden", id: 1352778147
 mas "CHM Reader - Enjoy", id: 1661528239
@@ -42,6 +44,7 @@ mas "HTTPBot", id: 1232603544
 mas "InjectionIII", id: 1380446739
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft Word", id: 462054704
+mas "OneDrive", id: 823766827
 mas "PL2303Serial", id: 1624835354
 mas "SPIKE", id: 6443545905
 mas "Strongbox", id: 897283731
@@ -55,8 +58,10 @@ mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
 vscode "asvetliakov.vscode-neovim"
 vscode "bierner.markdown-mermaid"
+vscode "emmanuelbeziat.vscode-great-icons"
 vscode "hansampfaall.dimacs"
 vscode "janisdd.vscode-edit-csv"
+vscode "llvm-vs-code-extensions.lldb-dap"
 vscode "mechatroner.rainbow-csv"
 vscode "ms-ceintl.vscode-language-pack-de"
 vscode "ms-dotnettools.csdevkit"
@@ -75,9 +80,13 @@ vscode "ms-vscode.cpptools-themes"
 vscode "ms-vscode.makefile-tools"
 vscode "ms-vscode.remote-explorer"
 vscode "ms-vsliveshare.vsliveshare"
+vscode "nextbook.file-and-folder-icons"
+vscode "ocamllabs.ocaml-platform"
 vscode "redhat.java"
+vscode "shd101wyy.markdown-preview-enhanced"
 vscode "sswg.swift-lang"
 vscode "swiftlang.swift-vscode"
+vscode "tal7aouy.icons"
 vscode "twxs.cmake"
 vscode "vadimcn.vscode-lldb"
 vscode "vintharas.learn-vim"
