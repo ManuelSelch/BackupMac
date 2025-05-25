@@ -11,3 +11,5 @@ alias update="bash /Users/manuelselch/backup/mac/update.sh"
 # setup swift package dependencies
 export PATH=$PATH:/Users/manuelselch/.swift-dependencies-graph/releases    
 eval "$(starship init zsh)"
+
+export SYSTEMC_HOME=/Users/manuelselch/Downloads/SystemC/systemc
