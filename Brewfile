@@ -14,6 +14,7 @@ brew "gradle"
 brew "inetutils"
 brew "jq"
 brew "libftdi"
+brew "libimobiledevice"
 brew "mas"
 brew "minicom"
 brew "neovim"
@@ -57,12 +58,10 @@ mas "CHM Reader - Enjoy", id: 1661528239
 mas "HEIC Converter", id: 1294126402
 mas "HP Smart", id: 1474276998
 mas "HTTPBot", id: 1232603544
-mas "InjectionIII", id: 1380446739
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft Word", id: 462054704
 mas "OneDrive", id: 823766827
 mas "PL2303Serial", id: 1624835354
-mas "SPIKE", id: 6443545905
 mas "Strongbox", id: 897283731
 mas "Symbols", id: 1612933742
 mas "Tailscale", id: 1475387142
@@ -70,7 +69,6 @@ mas "TestFlight", id: 899247664
 mas "Usage", id: 1561788435
 mas "WhatsApp", id: 310633997
 mas "Windows App", id: 1295203466
-mas "WireGuard", id: 1451685025
 mas "Xcode", id: 497799835
 vscode "asvetliakov.vscode-neovim"
 vscode "bierner.markdown-mermaid"
@@ -81,6 +79,7 @@ vscode "hansampfaall.dimacs"
 vscode "janisdd.vscode-edit-csv"
 vscode "llvm-vs-code-extensions.lldb-dap"
 vscode "mechatroner.rainbow-csv"
+vscode "ms-azuretools.vscode-containers"
 vscode "ms-ceintl.vscode-language-pack-de"
 vscode "ms-dotnettools.csdevkit"
 vscode "ms-dotnettools.csharp"
@@ -89,6 +88,8 @@ vscode "ms-dotnettools.vscode-dotnet-runtime"
 vscode "ms-python.debugpy"
 vscode "ms-python.python"
 vscode "ms-python.vscode-pylance"
+vscode "ms-python.vscode-python-envs"
+vscode "ms-vscode-remote.remote-containers"
 vscode "ms-vscode-remote.remote-ssh"
 vscode "ms-vscode-remote.remote-ssh-edit"
 vscode "ms-vscode.cmake-tools"
@@ -101,8 +102,6 @@ vscode "ms-vsliveshare.vsliveshare"
 vscode "ocamllabs.ocaml-platform"
 vscode "redhat.java"
 vscode "shd101wyy.markdown-preview-enhanced"
-vscode "sswg.swift-lang"
-vscode "swiftlang.swift-vscode"
 vscode "tomoki1207.pdf"
 vscode "twxs.cmake"
 vscode "vadimcn.vscode-lldb"
@@ -116,3 +115,4 @@ vscode "vscjava.vscode-java-pack"
 vscode "vscjava.vscode-java-test"
 vscode "vscjava.vscode-maven"
 vscode "wavetrace.wavetrace"
+vscode "zxh404.vscode-proto3"
