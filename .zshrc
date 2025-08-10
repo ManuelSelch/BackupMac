@@ -13,7 +13,7 @@ alias update="bash /Users/manuelselch/backup/mac/update.sh"
 export PATH=$PATH:/Users/manuelselch/.swift-dependencies-graph/releases    
 eval "$(starship init zsh)"
 
-export SYSTEMC_HOME=/Users/manuelselch/Downloads/SystemC/systemc
+export SYSTEMC_HOME=/Users/manuelselch/Documents/U_Uni/U02_Semester_II/GRA/SystemC/systemc
 
 
 # BEGIN opam configuration
