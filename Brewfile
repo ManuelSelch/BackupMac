@@ -60,7 +60,6 @@ cask "visual-studio-code"
 cask "zoom"
 cask "zulip"
 mas "AusweisApp", id: 948660805
-mas "Battery Monitor", id: 836505650
 mas "Bitwarden", id: 1352778147
 mas "CHM Reader - Enjoy", id: 1661528239
 mas "CrystalFetch", id: 6454431289
@@ -69,13 +68,9 @@ mas "HP Smart", id: 1474276998
 mas "HTTPBot", id: 1232603544
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft Word", id: 462054704
-mas "OneDrive", id: 823766827
-mas "PL2303Serial", id: 1624835354
-mas "Strongbox", id: 897283731
 mas "Symbols", id: 1612933742
 mas "Tailscale", id: 1475387142
 mas "TestFlight", id: 899247664
-mas "Usage", id: 1561788435
 mas "UTM", id: 1538878817
 mas "WhatsApp", id: 310633997
 mas "Windows App", id: 1295203466
