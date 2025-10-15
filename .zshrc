@@ -1,8 +1,10 @@
-alias uni="cd /Users/manuelselch/Documents/U\ Uni/U02\ Semester\ II"
+alias uni="cd /Users/manuelselch/Documents/U_Uni/U02_Semester_II"
 
 alias wizard="source /Users/manuelselch/backup/.venv/bin/activate && python3 /Users/manuelselch/backup/borgmatic/wizard.py"
 alias backup="bash /Users/manuelselch/backup/mac/backup.sh && /Users/manuelselch/backup/borgmatic/backup.sh"
 alias update="bash /Users/manuelselch/backup/mac/update.sh"
+
+alias hack="cd Documents/A_Personal/40\ Projekte/45\ Hackathon/hackathon-example-policies/"
 
 # setup nvm and npm
 # export NVM_DIR="$HOME/.nvm"
@@ -10,10 +12,11 @@ alias update="bash /Users/manuelselch/backup/mac/update.sh"
 # [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # setup swift package dependencies
-export PATH=$PATH:/Users/manuelselch/.swift-dependencies-graph/releases    
+# export PATH=$PATH:/Users/manuelselch/.swift-dependencies-graph/releases    
+
 eval "$(starship init zsh)"
 
-export SYSTEMC_HOME=/Users/manuelselch/Documents/U_Uni/U02_Semester_II/GRA/SystemC/systemc
+# export SYSTEMC_HOME=/Users/manuelselch/Documents/U_Uni/U02_Semester_II/GRA/SystemC/systemc
 
 
 # BEGIN opam configuration
@@ -21,5 +24,7 @@ export SYSTEMC_HOME=/Users/manuelselch/Documents/U_Uni/U02_Semester_II/GRA/Syste
 #   - the correct directories to the PATH
 #   - auto-completion for the opam binary
 # This section can be safely removed at any time if needed.
-[[ ! -r '/Users/manuelselch/.opam/opam-init/init.zsh' ]] || source '/Users/manuelselch/.opam/opam-init/init.zsh' > /dev/null 2> /dev/null
+# [[ ! -r '/Users/manuelselch/.opam/opam-init/init.zsh' ]] || source '/Users/manuelselch/.opam/opam-init/init.zsh' > /dev/null 2> /dev/null
 # END opam configuration
+
+# . "$HOME/.local/bin/env"
