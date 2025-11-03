@@ -1,10 +1,8 @@
-alias uni="cd /Users/manuelselch/Documents/U_Uni/U02_Semester_II"
+alias uni="cd /Users/manuelselch/Documents/U_Uni/U03_Semester_III"
 
 alias wizard="source /Users/manuelselch/backup/.venv/bin/activate && python3 /Users/manuelselch/backup/borgmatic/wizard.py"
 alias backup="bash /Users/manuelselch/backup/mac/backup.sh && /Users/manuelselch/backup/borgmatic/backup.sh"
 alias update="bash /Users/manuelselch/backup/mac/update.sh"
-
-alias hack="cd Documents/A_Personal/40\ Projekte/45\ Hackathon/hackathon-example-policies/"
 
 # setup nvm and npm
 # export NVM_DIR="$HOME/.nvm"

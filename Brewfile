@@ -1,10 +1,12 @@
 tap "homebrew/bundle"
 tap "homebrew/services"
 tap "ryu0118/dgraph"
+brew "ascii"
 brew "borgbackup"
 brew "borgmatic"
 brew "btop"
 brew "cmatrix"
+brew "cocoapods"
 brew "docker"
 brew "dotnet"
 brew "dpkg"
@@ -60,22 +62,6 @@ cask "ultimaker-cura"
 cask "visual-studio-code"
 cask "zoom"
 cask "zulip"
-mas "AusweisApp", id: 948660805
-mas "Bitwarden", id: 1352778147
-mas "CHM Reader - Enjoy", id: 1661528239
-mas "CrystalFetch", id: 6454431289
-mas "HEIC Converter", id: 1294126402
-mas "HP Smart", id: 1474276998
-mas "HTTPBot", id: 1232603544
-mas "Microsoft Excel", id: 462058435
-mas "Microsoft Word", id: 462054704
-mas "Symbols", id: 1612933742
-mas "Tailscale", id: 1475387142
-mas "TestFlight", id: 899247664
-mas "UTM", id: 1538878817
-mas "WhatsApp", id: 310633997
-mas "Windows App", id: 1295203466
-mas "Xcode", id: 497799835
 vscode "asvetliakov.vscode-neovim"
 vscode "bierner.markdown-mermaid"
 vscode "bradlc.vscode-tailwindcss"
